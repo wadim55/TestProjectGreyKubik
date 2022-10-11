@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97621730-727e-446d-832e-f7c9abbda0c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.6.6/Editor/BurstAotCompiler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DontDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwithAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonAudio.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Sprites/GreyCubik.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GreyCubik.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SwithAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScrollAudio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonAudio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Storage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DontDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameCoreStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StaticData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScrollWiev.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Fw101gi2OpYQQktryMMygW5mtC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97621730-727e-446d-832e-f7c9abbda0c8" name="Default Changelist" comment="" />
+      <created>1665388107363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665388107363</updated>
+      <workItem from="1665388112170" duration="1488000" />
+      <workItem from="1665393825592" duration="7075000" />
+      <workItem from="1665423980332" duration="3887000" />
+      <workItem from="1665467247518" duration="744000" />
+      <workItem from="1665468008529" duration="71000" />
+      <workItem from="1665468216389" duration="6000" />
+      <workItem from="1665468259162" duration="24000" />
+      <workItem from="1665468394613" duration="2629000" />
+      <workItem from="1665471096579" duration="1644000" />
+      <workItem from="1665473179491" duration="1270000" />
+      <workItem from="1665474529145" duration="637000" />
+      <workItem from="1665484019688" duration="1298000" />
+      <workItem from="1665485368654" duration="3376000" />
+      <workItem from="1665489079605" duration="952000" />
+      <workItem from="1665490175636" duration="857000" />
+      <workItem from="1665491147785" duration="472000" />
+      <workItem from="1665491825568" duration="1510000" />
+      <workItem from="1665493459890" duration="7000" />
+      <workItem from="1665494093600" duration="65000" />
+      <workItem from="1665504795217" duration="3013000" />
+      <workItem from="1665507912904" duration="1703000" />
+      <workItem from="1665509703839" duration="692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
